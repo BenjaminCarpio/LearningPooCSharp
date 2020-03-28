@@ -81,10 +81,10 @@ public class Main {
                         case 2:
                             //Se puede eliminar por nombre tambien
                             System.out.println("Eliminar libro: ");
-                            System.out.println("Digite el nombre de quien desea eliminar: ");
+                            System.out.println("Digite ISBN del libro que desea eliminar: ");
                             //Se declara aqui para evitar error : java: local variables referenced from a lambda expresion must be final or eectively final
                             String deleteISBN = scan.nextLine();
-                            ListaDeLibros.removeIf(s -> s.getNombre().equalsIgnoreCase(deleteISBN));
+                            ListaDeLibros.removeIf(s -> s.getISBN().equalsIgnoreCase(deleteISBN));
                             break;
                         default:
                             System.out.println("Numero invalido, intente nuevamente.");
