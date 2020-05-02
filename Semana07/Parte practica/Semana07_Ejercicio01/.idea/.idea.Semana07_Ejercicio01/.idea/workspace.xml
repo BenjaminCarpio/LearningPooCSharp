@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9b7badaa-835a-4530-8d14-7c243c770944" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Semana07_Ejercicio01/Banco.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Semana07_Ejercicio01/ConsolaJuegos.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Semana07_Ejercicio01/GestorArchivos.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Semana07_Ejercicio01/Program.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Semana07_Ejercicio01/Tarjeta.txt" />
+        <option value="$PROJECT_DIR$/Semana07_Ejercicio01/GestorArchivos.cs" />
+        <option value="$PROJECT_DIR$/Semana07_Ejercicio01/Tarjetas.txt" />
+        <option value="$PROJECT_DIR$/Semana07_Ejercicio01/Program.cs" />
+        <option value="$PROJECT_DIR$/Semana07_Ejercicio01/Juegos.txt" />
+        <option value="$PROJECT_DIR$/Semana07_Ejercicio01/ConsolaJuegos.cs" />
+        <option value="$PROJECT_DIR$/Semana07_Ejercicio01/Banco.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bKj9o2YJXRcilFDNBYln0r93gG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.SolutionExplorerActivator" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager" selected=".NET Project.Semana07_Ejercicio01">
+    <configuration name="Semana07_Ejercicio01" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Semana07_Ejercicio01/Semana07_Ejercicio01.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Semana07_Ejercicio01.Banco.consultarTarjetas" type="DotNetStaticMethod" factoryName=".NET Static Method" temporary="true">
+      <option name="EXE_PATH" value="C:\Program Files\JetBrains\JetBrains Rider 2019.3.4\lib\ReSharperHost\JetLauncherILc.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Semana07_Ejercicio01/Semana07_Ejercicio01.csproj" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.8" />
+      <option name="CLASS_NAME" value="Semana07_Ejercicio01.Banco" />
+      <option name="METHOD_NAME" value="consultarTarjetas" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue=".NET Static Method.Semana07_Ejercicio01.Banco.consultarTarjetas" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9b7badaa-835a-4530-8d14-7c243c770944" name="Default Changelist" comment="" />
+      <created>1588387537979</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588387537979</updated>
+      <workItem from="1588387549157" duration="1752000" />
+      <workItem from="1588389395615" duration="2187000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="WindowStateProjectService">
+    <state width="1876" height="67" key="GridCell.Tab.0.bottom" timestamp="1588391591882">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="67" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.175.1600.860@0.0.1920.1040" timestamp="1588391591882" />
+    <state width="1876" height="67" key="GridCell.Tab.0.center" timestamp="1588391591882">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="67" key="GridCell.Tab.0.center/0.0.1920.1040/1920.175.1600.860@0.0.1920.1040" timestamp="1588391591882" />
+    <state width="1876" height="67" key="GridCell.Tab.0.left" timestamp="1588391591882">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="67" key="GridCell.Tab.0.left/0.0.1920.1040/1920.175.1600.860@0.0.1920.1040" timestamp="1588391591882" />
+    <state width="1876" height="67" key="GridCell.Tab.0.right" timestamp="1588391591882">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="67" key="GridCell.Tab.0.right/0.0.1920.1040/1920.175.1600.860@0.0.1920.1040" timestamp="1588391591882" />
+  </component>
+</project>
