@@ -1,0 +1,28 @@
+CREATE TABLE USUARIO(
+		usuario VARCHAR(25)NOT NULL PRIMARY KEY,
+		contrasena VARCHAR(25)NOT NULL,
+		admin boolean NOT NULL
+	);
+	
+	CREATE TABLE INVENTARIO(
+		id_producto SERIAL NOT NULL PRIMARY KEY,
+		producto VARCHAR(30) NOT NULL,
+		descripcion TEXT NOT NULL,
+		precio MONEY NOT NULL,
+		stock INT NOT NULL
+	);
+	
+	CREATE TABLE PEDIDO(
+		id_registro SERIAL NOT NULL PRIMARY KEY,
+		usuario VARCHAR(25) NOT NULL,
+		producto INT NOT NULL,
+		cantidad INT NOT NULL
+	);
+	
+	ALTER TABLE PEDIDO
+	ADD CONSTRAINT fk_usuario_compra
+	FOREIGN KEY (usuario) REFERENCES USUARIO(usuario);
+	
+	ALTER TABLE PEDIDO
+	ADD CONSTRAINT fk_producto_compra
+	FOREIGN KEY (producto) REFERENCES INVENTARIO(id_producto);
