@@ -1,0 +1,5 @@
+C:\Users\Benjamin\RiderProjects\PreParcialFinal\bin\Debug\PreParcialFinal.exe
+C:\Users\Benjamin\RiderProjects\PreParcialFinal\bin\Debug\PreParcialFinal.pdb
+C:\Users\Benjamin\RiderProjects\PreParcialFinal\obj\Debug\PreParcialFinal.csprojAssemblyReference.cache
+C:\Users\Benjamin\RiderProjects\PreParcialFinal\obj\Debug\PreParcialFinal.exe
+C:\Users\Benjamin\RiderProjects\PreParcialFinal\obj\Debug\PreParcialFinal.pdb
