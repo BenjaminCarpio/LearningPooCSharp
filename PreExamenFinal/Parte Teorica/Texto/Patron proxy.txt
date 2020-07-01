@@ -1,0 +1,3 @@
+El remake fue al labo 6
+
+Se aplicó el patron de diseño Proxy para proporcionar mayor seguridad en este programa, ya que al agregar y eliminar evaluaciones considero que es importante tener cierto grado de seguridad para que no cualquiera pueda hacerlo a menos que posea la clave de acceso al proxy seguro que se ha implementado en este caso, para el proxy sencilo unicamente se dejo los metodos que muestran unicamente las evaluaciones y el que calcula nota ya que estos no pueden modificar las evaluaciones que se tiene en la lista.
